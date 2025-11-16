@@ -18,7 +18,7 @@ agents=(
 
     "com.apple.geoanalyticsd"
 
-    "com.apple.siri.context.service"
+    # "com.apple.siri.context.service"
     "com.apple.siriactionsd"
     "com.apple.siriknowledged"
     "com.apple.siriinferenced"
